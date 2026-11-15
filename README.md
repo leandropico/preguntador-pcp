@@ -11,6 +11,9 @@ El funcionamiento es simple:
 - Pensar la respuesta que darías en el coloquio.
 - Luego, para revisar si la respuesta es correcta hacer click en el botón *Mostrar Respuesta* para verificar
 
-<img width="722" height="511" alt="imagen" src="https://github.com/user-attachments/assets/25d36cbc-84fb-48ea-b222-9d89872ba78b" />
+<img width="361" height="255" alt="imagen" src="https://github.com/user-attachments/assets/25d36cbc-84fb-48ea-b222-9d89872ba78b" />
 
-<img width="723" height="688" alt="imagen" src="https://github.com/user-attachments/assets/2788381f-005b-4756-99e0-72d2edac62d8" />
+
+
+
+<img width="361" height="344" alt="imagen" src="https://github.com/user-attachments/assets/2788381f-005b-4756-99e0-72d2edac62d8" />
